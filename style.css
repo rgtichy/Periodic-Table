@@ -1,0 +1,57 @@
+*{padding:0px;
+margin:0px;
+font-family: "Tahoma", sans-serif;
+}
+ul {display: inline-block;
+    list-style-type: none;
+    margin-bottom: 2px;}
+b {font-size: 14px;
+   color: darkblue;}
+#wrapper {margin:0 auto;
+          width: 980px;
+          background-color: #EEEEEE;
+}
+#greens {width: 152px;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+        }
+#greens2 {display: inline-block;
+        vertical-align: top;
+        }
+.across {display: inline;}
+#greens li:nth-child(3) {margin-right: 0px;}
+#regular li:nth-child(3) {margin-right: 5px;}
+.box {display: inline-block;
+      height: 40px;
+      width: 40px;
+      padding: 2px;
+      font-size: 10px;
+      text-align: center;
+      vertical-align: top;
+      border-width: thin;
+      border-style: solid;
+      border-color: transparent;
+      margin-bottom: 4px;
+}
+.border{
+        border-style: solid;
+        border-color: black;
+
+}
+.axes {color: red;
+       font-size: 10px;}
+.element {color: darkblue;
+          font-size: 14px;
+          font-weight: bold;}
+.top {height: 7px;
+      padding-bottom: 2px;
+      display: block;}
+.bottom {height: 7px;
+         display: block;}
+.He {margin-left: 820px;}
+.B  {margin-left: 509px;}
+.lightblue {background-color: #689BFF;}
+.tangerine {background-color: #FECB00;}
+.rose {background-color: #FD9A98;}
+.green {background-color: #1FCA21;}
